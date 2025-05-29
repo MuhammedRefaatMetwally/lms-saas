@@ -38,7 +38,7 @@ export const getAllCompanions = async ({ limit = 10, page = 1, subject, topic }:
 
     if(error) throw new Error(error.message);
 
-    return companions;
+    return companions || [];
 }
 
 export const getCompanion = async (id: string) => {
