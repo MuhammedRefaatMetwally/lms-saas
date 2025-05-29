@@ -22,7 +22,7 @@
 ---
 ## 🎬 Demo Video
 
-Watch a full walkthrough of the project in action:
+Watch an overview  of main feature of the project in action:
 
 [![Demo Video] https://github.com/user-attachments/assets/cf99be77-83ec-4ef6-8211-2aad2bde6023 ]
 
